@@ -1,5 +1,4 @@
-collection = ["french", "english", "spanish"]
-my_collect(collection) do |lang|
-  lang.upcase
-end
+def my_collect["french", "english", "spanish"]
+  i = 0
 
+end
